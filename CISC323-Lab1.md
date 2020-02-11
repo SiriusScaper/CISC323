@@ -28,7 +28,7 @@ To specify an alternate manpath to use. This option overrides the manpath derive
 ------
 
 ## Hands On Project 1-11
-![Hands on Lab 1-11](lab-media/Project-1-11.gif)
+![Hands on Lab 1-11](lab-media/1-11.png)
 
 Did this before trying the gifs and I didn’t really want to reset my password again.
 
