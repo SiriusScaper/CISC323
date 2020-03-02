@@ -25,7 +25,8 @@
 
 ## Hands On Project 5-12
 
-![Hands on Lab 5-12](lab-media/Project-5-12.gif)
+![Hands on Lab 5-12](lab-media/Project-5-12a.gif)
+![Hands on Lab 5-12](lab-media/Project-5-12b.gif)
 
 ------
 
